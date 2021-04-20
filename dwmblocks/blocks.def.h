@@ -2,8 +2,6 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"", "date '+%F %R'",					5,		0},
-  	{"", "volumeicon &",					0,		0}
-};
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
 static char delim[] = " | ";
