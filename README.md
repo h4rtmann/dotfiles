@@ -1,9 +1,12 @@
 # suckless-build
+! Letakan autostart.sh di ~/.dwm/autostart.sh
+
 Build suckless saya.
 
 > Dwm
 >> Color scheme : Nord
 >> Font : ubuntu-mono
+
 >> Patch DWM
 >>> 1. Full Gaps
 >>> 2. Autostart
