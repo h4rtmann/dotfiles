@@ -1,5 +1,5 @@
 # suckless-build
-! Letakan autostart.sh di ~/.dwm/autostart.sh
+! Letakan autostart.sh di ~/.dwm/autostart.sh !
 
 Build suckless saya.
 
