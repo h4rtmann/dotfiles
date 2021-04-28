@@ -59,8 +59,10 @@ theme.taglist_squares_unsel = theme_assets.taglist_squares_unsel(
 -- notification_[border_color|border_width|shape|opacity]
 
 -- Variables set for theming notifications:
-notification_font       = "JetBrainsMono Nerd Font 9"
--- notification_[bg|fg]
+---- notification_font       = "JetBrainsMono Nerd Font 15"
+---- notification_bg         = "#2E3440"
+---- notification_fg         = "#ffffff"
+---- notification_border_width = dpi(3)
 -- notification_[width|height|margin]
 -- notification_[border_color|border_width|shape|opacity]
 
