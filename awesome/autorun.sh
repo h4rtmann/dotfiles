@@ -10,4 +10,4 @@ function run {
 run nm-applet
 run volumeicon
 run nitrogen --restore
-run compton
+run dunst
